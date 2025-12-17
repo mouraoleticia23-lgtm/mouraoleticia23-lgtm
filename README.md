@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! I'm Leticia Mourão Costa 👋
 
-<!--
-**mouraoleticia23-lgtm/mouraoleticia23-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Scientist | Power BI & Analytics Enthusiast  
+📊 Passionate about transforming raw data into meaningful insights and actionable decisions  
+🧠 Skilled in data visualization, data analysis, and building interactive dashboards with Power BI  
+🌱 Continuously learning Python, machine learning, and data engineering techniques  
+🔍 Interested in predictive analytics, data storytelling, and business intelligence  
 
-Here are some ideas to get you started:
+Projects include:  
+- Interactive dashboards and reports with real-world datasets  
+- Exploratory data analysis and insights for decision-making  
+- Predictive models and data-driven solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/leticia-mour%C3%A3o-costa-699347237/)
