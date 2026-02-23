@@ -1,14 +1,15 @@
 ## Hi! I'm Leticia Mourão Costa 👋
 
-💻 Aspiring Data Scientist | Power BI & Analytics Enthusiast  
-📊 Passionate about transforming raw data into meaningful insights and actionable decisions  
-🧠 Skilled in data visualization, data analysis, and building interactive dashboards with Power BI  
-🌱 Continuously learning Python, machine learning, and data engineering techniques  
-🔍 Interested in predictive analytics, data storytelling, and business intelligence  
+💻 Software Engineering Student | Data & AI Engineering
+🎓 Bioengineering background (Universidade do Porto) | Based in Brazil, experienced in Portugal
+🛠️ Skilled in Python, SQL, ETL pipelines, Power BI and LLM-based applications
+🤖 Certified in Data Engineering and AI Engineering for Developers – DataCamp
+🌱 Expanding into software architecture, APIs, cloud computing and LLMOps
+🔍 Building solutions that integrate software development with data and AI
 
-Projects include:  
-- Interactive dashboards and reports with real-world datasets  
-- Exploratory data analysis and insights for decision-making  
-- Predictive models and data-driven solutions  
+Projects include:
+- Machine learning models for classification and predictive analysis
+- Interactive Power BI dashboards for business and academic datasets
+- Data pipelines and exploratory analysis 
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/leticia-mour%C3%A3o-costa-699347237/)
