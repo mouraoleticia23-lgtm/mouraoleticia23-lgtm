@@ -26,24 +26,24 @@ Based in Brazil 🇧🇷 · Experienced in Portugal 🇵🇹
 ### 🤖 AI & LLM
 | Project | Description | Stack |
 |---|---|---|
-| [IRIS Finance Agent](link) | Conversational investment advisor — analyzes transactions, issues spending alerts and recommends investments aligned to user goals | React, JavaScript, Claude API |
-| [Voice Chatbot AI](link) | Voice-based AI assistant — transcribes audio, reasons with LLaMA via Groq and responds in synthesized voice | Python, Whisper, Groq, gTTS |
-| [WhatsApp Chatbot Simulator](link) | Support chatbot with interactive menus, user state control and JSON-based data queries | Python |
+| [IRIS Finance Agent](https://github.com/mouraoleticia23-lgtm/dio-lab-bia-do-futuro) | Conversational investment advisor — analyzes transactions, issues spending alerts and recommends investments aligned to user goals | React, JavaScript, Claude API |
+| [Voice Chatbot AI](https://github.com/mouraoleticia23-lgtm/voice-chatbot-ai) | Voice-based AI assistant — transcribes audio, reasons with LLaMA via Groq and responds in synthesized voice | Python, Whisper, Groq, gTTS |
+| [WhatsApp Chatbot Simulator](https://github.com/mouraoleticia23-lgtm/Whatsapp-Chatbot-Simulator) | Support chatbot with interactive menus, user state control and JSON-based data queries | Python |
 
 ### ⚙️ Backend & APIs
 | Project | Description | Stack |
 |---|---|---|
-| [Products API](link) | CRUD REST API for product management with Pydantic validation and Swagger docs | Python, FastAPI |
-| [API Testing – ServeRest](link) | Automated API test suite covering endpoints of a virtual store REST API | Postman |
+| [Products API](https://github.com/mouraoleticia23-lgtm/Products-API) | CRUD REST API for product management with Pydantic validation and Swagger docs | Python, FastAPI |
+| [API Testing – ServeRest](https://github.com/mouraoleticia23-lgtm/postman_serverest) | Automated API test suite covering endpoints of a virtual store REST API | Postman |
 
 ### 📊 Data & Machine Learning
 | Project | Description | Stack |
 |---|---|---|
-| [Adult Census Income](link) | ML model predicting individual income class from census data | Python, Scikit-learn |
-| [Wine Quality EDA](link) | Exploratory analysis of physicochemical properties and quality scores | Python, Jupyter |
-| [AdventureWorks Dashboard](link) | Sales performance dashboard tracking revenue, profit, margin and product KPIs | Power BI |
-| [University Dashboard](link) | Academic data dashboard with demographics, graduation trends and department metrics | Power BI |
-| [Sales Dashboard 2017–2019](link) | Multi-year sales analysis by salesperson, payment method and targets | Power BI |
+| [Adult Census Income](https://github.com/mouraoleticia23-lgtm/adult_census_dataset) | ML model predicting individual income class from census data | Python, Scikit-learn |
+| [Wine Quality EDA](https://github.com/mouraoleticia23-lgtm/Wine_Quality_dataset) | Exploratory analysis of physicochemical properties and quality scores | Python, Jupyter |
+| [AdventureWorks Dashboard](https://github.com/mouraoleticia23-lgtm/AdventureWorks-Sales-Performance-Dashboard) | Sales performance dashboard tracking revenue, profit, margin and product KPIs | Power BI |
+| [University Dashboard](https://github.com/mouraoleticia23-lgtm/University_PowerBI_Dashboard) | Academic data dashboard with demographics, graduation trends and department metrics | Power BI |
+| [Sales Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Multi-year sales analysis by salesperson, payment method and targets | Power BI |
 
 ---
 
