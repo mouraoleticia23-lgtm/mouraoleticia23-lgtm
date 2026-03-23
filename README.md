@@ -1,12 +1,12 @@
-# Hi, I'm Leticia Mourão Costa 👋
+# Olá, sou Leticia Mourão Costa 👋
 
-Software Engineering student with a Bioengineering background, building at the intersection of
-**Data Engineering, Backend Development and Applied AI**.
-Based in Brazil 🇧🇷 · Experienced in Portugal 🇵🇹
+Estudante de Engenharia de Software com formação em Bioengenharia, construindo na interseção entre
+**Engenharia de Dados, Desenvolvimento Backend e IA Aplicada**.
+Baseada no Brasil 🇧🇷 · Com experiência em Portugal 🇵🇹
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,47 +21,47 @@ Based in Brazil 🇧🇷 · Experienced in Portugal 🇵🇹
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos
 
-### 🤖 AI & LLM
-| Project | Description | Stack |
+### 🤖 IA & LLM
+| Projeto | Descrição | Stack |
 |---|---|---|
-| [IRIS Finance Agent](https://github.com/mouraoleticia23-lgtm/dio-lab-bia-do-futuro) | Conversational investment advisor — analyzes transactions, issues spending alerts and recommends investments aligned to user goals | React, JavaScript, Claude API |
-| [Voice Chatbot AI](https://github.com/mouraoleticia23-lgtm/voice-chatbot-ai) | Voice-based AI assistant — transcribes audio, reasons with LLaMA via Groq and responds in synthesized voice | Python, Whisper, Groq, gTTS |
-| [WhatsApp Chatbot Simulator](https://github.com/mouraoleticia23-lgtm/Whatsapp-Chatbot-Simulator) | Support chatbot with interactive menus, user state control and JSON-based data queries | Python |
+| [IRIS Finance Agent](https://github.com/mouraoleticia23-lgtm/dio-lab-bia-do-futuro) | Consultora de investimentos conversacional — analisa transações, emite alertas de gastos e recomenda investimentos alinhados às metas do usuário | React, JavaScript, Claude API |
+| [Voice Chatbot AI](https://github.com/mouraoleticia23-lgtm/voice-chatbot-ai) | Assistente de IA por voz — transcreve áudio, raciocina com LLaMA via Groq e responde com voz sintetizada | Python, Whisper, Groq, gTTS |
+| [WhatsApp Chatbot Simulator](https://github.com/mouraoleticia23-lgtm/Whatsapp-Chatbot-Simulator) | Chatbot de atendimento com menus interativos, controle de estado por usuário e consultas em JSON | Python |
 
 ### ⚙️ Backend & APIs
-| Project | Description | Stack |
+| Projeto | Descrição | Stack |
 |---|---|---|
-| [Products API](https://github.com/mouraoleticia23-lgtm/Products-API) | CRUD REST API for product management with Pydantic validation and Swagger docs | Python, FastAPI |
-| [API Testing – ServeRest](https://github.com/mouraoleticia23-lgtm/postman_serverest) | Automated API test suite covering endpoints of a virtual store REST API | Postman |
+| [Products API](https://github.com/mouraoleticia23-lgtm/Products-API) | API REST com operações CRUD para gestão de produtos, validação com Pydantic e documentação automática via Swagger | Python, FastAPI |
+| [Testes de API – ServeRest](https://github.com/mouraoleticia23-lgtm/postman_serverest) | Suite de testes automatizados cobrindo os endpoints de uma API REST de loja virtual | Postman |
 
-### 📊 Data & Machine Learning
-| Project | Description | Stack |
+### 📊 Dados & Machine Learning
+| Projeto | Descrição | Stack |
 |---|---|---|
-| [Adult Census Income](https://github.com/mouraoleticia23-lgtm/adult_census_dataset) | ML model predicting individual income class from census data | Python, Scikit-learn |
-| [Wine Quality EDA](https://github.com/mouraoleticia23-lgtm/Wine_Quality_dataset) | Exploratory analysis of physicochemical properties and quality scores | Python, Jupyter |
-| [AdventureWorks Dashboard](https://github.com/mouraoleticia23-lgtm/AdventureWorks-Sales-Performance-Dashboard) | Sales performance dashboard tracking revenue, profit, margin and product KPIs | Power BI |
-| [University Dashboard](https://github.com/mouraoleticia23-lgtm/University_PowerBI_Dashboard) | Academic data dashboard with demographics, graduation trends and department metrics | Power BI |
-| [Sales Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Multi-year sales analysis by salesperson, payment method and targets | Power BI |
+| [Adult Census Income](https://github.com/mouraoleticia23-lgtm/adult_census_dataset) | Modelo de ML para prever a classe de renda de indivíduos a partir de dados censitários | Python, Scikit-learn |
+| [Wine Quality EDA](https://github.com/mouraoleticia23-lgtm/Wine_Quality_dataset) | Análise exploratória de propriedades físico-químicas e pontuações de qualidade de vinhos | Python, Jupyter |
+| [AdventureWorks Dashboard](https://github.com/mouraoleticia23-lgtm/AdventureWorks-Sales-Performance-Dashboard) | Dashboard de performance de vendas com receita, lucro, margem e KPIs por produto | Power BI |
+| [University Dashboard](https://github.com/mouraoleticia23-lgtm/University_PowerBI_Dashboard) | Dashboard acadêmico com dados demográficos, tendências de formatura e métricas por departamento | Power BI |
+| [Sales Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Análise de vendas multianual por vendedor, forma de pagamento e metas | Power BI |
 
 ---
 
-## 📚 Currently Learning
+## 📚 Atualmente Estudando
 - Cloud computing (AWS / GCP)
-- Software architecture & backend development  
-- LLMOps and AI system design
+- Arquitetura de software e desenvolvimento backend
+- LLMOps e design de sistemas com IA
 
 ---
 
-## 🎓 Certifications
-- Data Engineer in Python – DataCamp  
-- ASsociate AI Engineering for Developers – DataCamp
-- PowerBI + SQLServer - Udemy
+## 🎓 Certificações
+- Data Engineer in Python – DataCamp
+- Associate AI Engineering for Developers – DataCamp
+- Power BI + SQL Server – Udemy
 
 ---
 
-## 📫 Let's connect
+## 📫 Vamos nos conectar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-mour%C3%A3o-costa-699347237/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mouraoleticia23@gmail.com)
 
