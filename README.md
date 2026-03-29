@@ -45,23 +45,21 @@ Baseada no Brasil 🇧🇷 · Com experiência em Portugal 🇵🇹
 | [University Dashboard](https://github.com/mouraoleticia23-lgtm/University_PowerBI_Dashboard) | Dashboard acadêmico com dados demográficos, tendências de formatura e métricas por departamento | Power BI |
 | [Sales Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Análise de vendas multianual por vendedor, forma de pagamento e metas | Power BI |
 
----
-
-## 📚 Atualmente Estudando
-- Cloud computing (AWS / GCP)
-- Arquitetura de software e desenvolvimento backend
-- LLMOps e design de sistemas com IA
 
 ---
 
 ## 🎓 Certificações
 - Data Engineer in Python – DataCamp
+- Bootcamp Bradesco: GenAI & Dados – DIO
 - Associate AI Engineering for Developers – DataCamp
+- Engenharia de Prompt para Engenheiros de Software - USP
 - Power BI + SQL Server – Udemy
+- Artificial Intelligence Fundamentals – IBM
+- Introduction to Data Science and Modern AI – Cisco
 
 ---
 
-## 📫 Vamos nos conectar
+## 📫 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-mour%C3%A3o-costa-699347237/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mouraoleticia23@gmail.com)
 
