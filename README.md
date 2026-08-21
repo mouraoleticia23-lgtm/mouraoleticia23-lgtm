@@ -1,18 +1,12 @@
 # Hi, I'm Leticia Mourão Costa 👋
 
-I transform raw data into clean, reliable and actionable insights using Python, SQL, ETL and Business Intelligence tools. 
-
-I have professional experience working with data analysis, ETL pipelines, data modeling, data quality and dashboard development, with a strong focus on turning business requirements into practical data solutions.
+I work in Data Analysis and Business Intelligence, developing solutions that support decision-making and generate value for the business. I have experience with ETL processes, SQL, Python, data modelling, and dashboard development using Power BI and Qlik Sense. I enjoy working at the intersection of data and business, transforming information into insights and practical solutions that improve efficiency and address complex challenges. 
 
 My main areas of interest are:
 
-- 📊 Data Analysis & Business Intelligence
-- 🔄 ETL & Data Pipelines
-- 🐍 Python for Data & Automation
-- 🗄️ SQL & Data Modeling
-- 📈 Power BI & Data Visualization
-- 🔌 REST APIs & Data Integration
-- 🤖 Machine Learning & AI
+- Data Analysis & Business Intelligence           - SQL & Data Modeling
+- ETL & Data Pipelines                            - Power BI & Data Visualization
+- Python for Data & Automation                    - REST APIs & Data Integration
 
 ---
 
@@ -32,9 +26,9 @@ My main areas of interest are:
 
 ---
 
-## 🚀 Projects
+## 📊 Projects
 
-### 📊 Business Intelligence & Data Analytics
+### Business Intelligence & Data Analytics
 | Project | Description | Technologies |
 |---|---|---|
 | [Wine Quality EDA](https://github.com/mouraoleticia23-lgtm/Wine_Quality_dataset) | Exploratory data analysis identifying patterns and relationships between physicochemical properties and wine quality | Python, Jupyter |
@@ -42,13 +36,13 @@ My main areas of interest are:
 | [University Dashboard](https://github.com/mouraoleticia23-lgtm/University_PowerBI_Dashboard) | Academic analytics dashboard covering demographics, graduation trends and departmental metrics | Power BI |
 | [Sales Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Multi-year sales analysis by salesperson, payment method and targets | Power BI |
 
-### 🔄 Data Engineering & APIs
+### Data Engineering & APIs
 | Project | Description | Technologies |
 |---|---|---|
 | [Products API](https://github.com/mouraoleticia23-lgtm/Products-API) | REST API for product management with CRUD operations, data validation and automatic API documentation | Python, FastAPI |
 | [ServeRest API Testing](https://github.com/mouraoleticia23-lgtm/postman_serverest) | Automated API testing suite covering REST endpoints of an e-commerce API | Postman |
 
-### 🤖 AI, Machine Learning & Automation
+### AI, Machine Learning & Automation
 | Project | Description | Technologies |
 |---|---|---|
 | [Adult Census Income](https://github.com/mouraoleticia23-lgtm/adult_census_dataset) | Machine learning model for predicting individual income brackets using census data | Python, Scikit-learn |
