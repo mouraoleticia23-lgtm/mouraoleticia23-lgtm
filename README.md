@@ -4,9 +4,11 @@ I work in Data Analysis and Business Intelligence, developing solutions that sup
 
 My main areas of interest are:
 
-- Data Analysis & Business Intelligence           - SQL & Data Modeling
-- ETL & Data Pipelines                            - Power BI & Data Visualization
-- Python for Data & Automation                    - REST APIs & Data Integration
+- Data Analysis & Business Intelligence
+- ETL & Data Pipelines
+- Python for Data & Automation
+- SQL & Data Modeling
+- Power BI & Data Visualization
 
 ---
 
