@@ -1,61 +1,72 @@
-# Olá, sou Leticia Mourão Costa 👋
+# Hi, I'm Leticia Mourão Costa 👋
 
-Estudante de Engenharia de Software com formação em Bioengenharia, construindo na interseção entre
-**Engenharia de Dados, Desenvolvimento Backend e IA Aplicada**.
-Baseada no Brasil 🇧🇷 · Com experiência em Portugal 🇵🇹
+I transform raw data into clean, reliable and actionable insights using Python, SQL, ETL and Business Intelligence tools. 
+
+I have professional experience working with data analysis, ETL pipelines, data modeling, data quality and dashboard development, with a strong focus on turning business requirements into practical data solutions.
+
+My main areas of interest are:
+
+- 📊 Data Analysis & Business Intelligence
+- 🔄 ETL & Data Pipelines
+- 🐍 Python for Data & Automation
+- 🗄️ SQL & Data Modeling
+- 📈 Power BI & Data Visualization
+- 🔌 REST APIs & Data Integration
+- 🤖 Machine Learning & AI
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009848?style=flat&logo=qlik&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projects
 
-### 🤖 IA & LLM
-| Projeto | Descrição | Stack |
+### 📊 Business Intelligence & Data Analytics
+| Project | Description | Technologies |
 |---|---|---|
-| [IRIS Finance Agent](https://github.com/mouraoleticia23-lgtm/dio-lab-bia-do-futuro) | Consultora de investimentos conversacional — analisa transações, emite alertas de gastos e recomenda investimentos alinhados às metas do usuário | React, JavaScript, Claude API |
-| [Voice Chatbot AI](https://github.com/mouraoleticia23-lgtm/voice-chatbot-ai) | Assistente de IA por voz — transcreve áudio, raciocina com LLaMA via Groq e responde com voz sintetizada | Python, Whisper, Groq, gTTS |
-| [WhatsApp Chatbot Simulator](https://github.com/mouraoleticia23-lgtm/Whatsapp-Chatbot-Simulator) | Chatbot de atendimento com menus interativos, controle de estado por usuário e consultas em JSON | Python |
+| [Wine Quality EDA](https://github.com/mouraoleticia23-lgtm/Wine_Quality_dataset) | Exploratory data analysis identifying patterns and relationships between physicochemical properties and wine quality | Python, Jupyter |
+| [AdventureWorks Dashboard](https://github.com/mouraoleticia23-lgtm/AdventureWorks-Sales-Performance-Dashboard) | Sales performance dashboard analyzing revenue, profit, margin and product KPIs | Power BI |
+| [University Dashboard](https://github.com/mouraoleticia23-lgtm/University_PowerBI_Dashboard) | Academic analytics dashboard covering demographics, graduation trends and departmental metrics | Power BI |
+| [Sales Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Multi-year sales analysis by salesperson, payment method and targets | Power BI |
 
-### ⚙️ Backend & APIs
-| Projeto | Descrição | Stack |
+### 🔄 Data Engineering & APIs
+| Project | Description | Technologies |
 |---|---|---|
-| [Products API](https://github.com/mouraoleticia23-lgtm/Products-API) | API REST com operações CRUD para gestão de produtos, validação com Pydantic e documentação automática via Swagger | Python, FastAPI |
-| [Testes de API – ServeRest](https://github.com/mouraoleticia23-lgtm/postman_serverest) | Suite de testes automatizados cobrindo os endpoints de uma API REST de loja virtual | Postman |
+| [Products API](https://github.com/mouraoleticia23-lgtm/Products-API) | REST API for product management with CRUD operations, data validation and automatic API documentation | Python, FastAPI |
+| [ServeRest API Testing](https://github.com/mouraoleticia23-lgtm/postman_serverest) | Automated API testing suite covering REST endpoints of an e-commerce API | Postman |
 
-### 📊 Dados & Machine Learning
-| Projeto | Descrição | Stack |
+### 🤖 AI, Machine Learning & Automation
+| Project | Description | Technologies |
 |---|---|---|
-| [Adult Census Income](https://github.com/mouraoleticia23-lgtm/adult_census_dataset) | Modelo de ML para prever a classe de renda de indivíduos a partir de dados censitários | Python, Scikit-learn |
-| [Wine Quality EDA](https://github.com/mouraoleticia23-lgtm/Wine_Quality_dataset) | Análise exploratória de propriedades físico-químicas e pontuações de qualidade de vinhos | Python, Jupyter |
-| [AdventureWorks Dashboard](https://github.com/mouraoleticia23-lgtm/AdventureWorks-Sales-Performance-Dashboard) | Dashboard de performance de vendas com receita, lucro, margem e KPIs por produto | Power BI |
-| [University Dashboard](https://github.com/mouraoleticia23-lgtm/University_PowerBI_Dashboard) | Dashboard acadêmico com dados demográficos, tendências de formatura e métricas por departamento | Power BI |
-| [Sales Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Análise de vendas multianual por vendedor, forma de pagamento e metas | Power BI |
-
+| [Adult Census Income](https://github.com/mouraoleticia23-lgtm/adult_census_dataset) | Machine learning model for predicting individual income brackets using census data | Python, Scikit-learn |
+| [IRIS Finance Agent](https://github.com/mouraoleticia23-lgtm/dio-lab-bia-do-futuro) | Conversational financial assistant for transaction analysis, spending alerts and personalized recommendations | React, JavaScript, Claude API |
+| [Voice Chatbot AI](https://github.com/mouraoleticia23-lgtm/voice-chatbot-ai) | Voice-based AI assistant combining speech recognition, LLM reasoning and speech synthesis | Python, Whisper, Groq, gTTS |
+| [WhatsApp Chatbot Simulator](https://github.com/mouraoleticia23-lgtm/Whatsapp-Chatbot-Simulator) | Interactive customer-service chatbot with state management and JSON-based data queries | Python |
 
 ---
 
-## 🎓 Certificações
-- Data Engineer in Python – DataCamp
-- Bootcamp Bradesco: GenAI & Dados – DIO
-- Associate AI Engineering for Developers – DataCamp
-- Engenharia de Prompt para Engenheiros de Software - USP
-- Power BI + SQL Server – Udemy
-- Artificial Intelligence Fundamentals – IBM
-- Introduction to Data Science and Modern AI – Cisco
+## 🎓 Certificates
+- Bootcamp Bradesco: GenAI & Dados – DIO (2026)
+- Data Engineer in Python – DataCamp (2026)
+- Introduction to Machine Learning with Python – USP (2026)
+- Prompt Engineering for Software Engineers – USP (2026)
+- Associate AI Engineer for Developers – DataCamp (2026) 
+- Artificial Intelligence Fundamentals – IBM (2025)
+- Data Science and Introduction to Modern AI – Cisco (2025) 
+- Power BI + SQL Server – Udemy (2025) 
 
 ---
 
