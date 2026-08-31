@@ -33,10 +33,10 @@ My main areas of interest are:
 ### Business Intelligence & Data Analytics
 | Project | Description | Technologies |
 |---|---|---|
+| [Sales Target & Revenue Analytics Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Multi-year sales analysis by salesperson, payment method and targets | Power BI |
 | [Wine Quality EDA](https://github.com/mouraoleticia23-lgtm/Wine_Quality_dataset) | Exploratory data analysis identifying patterns and relationships between physicochemical properties and wine quality | Python, Jupyter |
 | [AdventureWorks Dashboard](https://github.com/mouraoleticia23-lgtm/AdventureWorks-Sales-Performance-Dashboard) | Sales performance dashboard analyzing revenue, profit, margin and product KPIs | Power BI |
 | [University Dashboard](https://github.com/mouraoleticia23-lgtm/University_PowerBI_Dashboard) | Academic analytics dashboard covering demographics, graduation trends and departmental metrics | Power BI |
-| [Sales Dashboard](https://github.com/mouraoleticia23-lgtm/Sales_PowerBI_Dashboard) | Multi-year sales analysis by salesperson, payment method and targets | Power BI |
 
 ### Data Engineering & APIs
 | Project | Description | Technologies |
